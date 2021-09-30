@@ -1,0 +1,40 @@
+.map {
+  /* background-image: url(./Picture/Captured.PNG); */
+
+  margin: 20px auto;
+  /* backgroundcolor: red; */
+  color: green;
+  /* padding: 20px; */
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  width: 200px;
+  height: 200px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  /* display: grid;
+  grid-template-columns: 200px 100px;
+  margin-left: 180px;
+  column-gap: 270px;
+  justify-items: center;
+  row-gap: 100px;
+  grid-template-rows: 500px 500px 500px 500px 500px; */
+}
+.id {
+  bottom: 20px;
+}
+.apple {
+  text-align: center;
+}
+.age {
+  width: 200px;
+}
+.read {
+  border: 1px rgb(212, 6, 109) solid;
+  background-color: rgba(252, 5, 178, 0.973);
+  width: 90px;
+}
+.card {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  width: 200px;
+  margin: 10px;
+}
